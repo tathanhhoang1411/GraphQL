@@ -1,0 +1,325 @@
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GPL.exe
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GPL.deps.json
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GPL.runtimeconfig.json
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GPL.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GPL.pdb
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Azure.Core.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Azure.Identity.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Humanizer.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.CodeDom.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Memory.Data.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Text.Json.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.csproj.AssemblyReference.cache
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfoInputs.cache
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfo.cs
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cs
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\scopedcss\bundle\GPL.styles.css
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CopyComplete
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.dll
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\refint\GPL.dll
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.pdb
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\GPL.genruntimeconfig.cache
+D:\My Desk\Practice\GPL\GPL\obj\Debug\net6.0\ref\GPL.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\GreenDonut.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.dll
+D:\My Desk\Practice\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\appsettings.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.exe
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.deps.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.runtimeconfig.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.pdb
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\GreenDonut.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.AssemblyReference.cache
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfoInputs.cache
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfo.cs
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CoreCompileInputs.cache
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.GPL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.build.GPL.props
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPL.props
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPL.props
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\scopedcss\bundle\GPL.styles.css
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CopyComplete
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\refint\GPL.dll
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.pdb
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.genruntimeconfig.cache
+C:\Users\cahoi\Downloads\GraphQL\GPL\GPL\obj\Debug\net6.0\ref\GPL.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\appsettings.Development.json
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\appsettings.json
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.exe
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.deps.json
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.runtimeconfig.json
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GPL.pdb
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Azure.Core.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Azure.Identity.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\GreenDonut.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Humanizer.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.CodeDom.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Memory.Data.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Text.Json.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WORK\GraphQL\GPL\GPL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.AssemblyReference.cache
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfoInputs.cache
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.AssemblyInfo.cs
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CoreCompileInputs.cache
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cs
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.MvcApplicationPartsAssemblyInfo.cache
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.build.json
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.development.json
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.GPL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.build.GPL.props
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GPL.props
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GPL.props
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\staticwebassets.pack.json
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\scopedcss\bundle\GPL.styles.css
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.csproj.CopyComplete
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.dll
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\refint\GPL.dll
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.pdb
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\GPL.genruntimeconfig.cache
+D:\WORK\GraphQL\GPL\GPL\obj\Debug\net6.0\ref\GPL.dll
